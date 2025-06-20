@@ -1,3 +1,0 @@
-const bcrypt = require('bcryptjs');
-const jwt = require('jsonwebtoken');
-const auth = require('./auth'); // import auth middleware
