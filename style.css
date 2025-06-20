@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #e3d8b2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    width: 600px;
+    height: auto;
+  }
+  
+  h1 {
+    font-size: 80px;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  p {
+    font-size: 24px;
+    color: #555;
+  }
+  
